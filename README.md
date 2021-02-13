@@ -39,8 +39,9 @@ I am a Full-stack Web developer
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=JsPad&show_owner=true)](https://github.com/bettaibi/JsPad)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=selfie-toy&show_owner=true)](https://github.com/bettaibi/selfie-toy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=word-meaninig&show_owner=true)](https://github.com/bettaibi/word-meaninig)
 
 ---
 
