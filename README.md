@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Nidhal Bettaibi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am a Full-stack Web developer 
+> Software Engineer
 
 
 ---
