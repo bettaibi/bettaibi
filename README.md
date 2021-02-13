@@ -10,7 +10,7 @@ I am a Full-stack Web developer
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
 <img src = "https://img.shields.io/badge/-Angular-E34F26?style=flat&logo=angular&logoColor=white"> 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -42,6 +42,7 @@ I am a Full-stack Web developer
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=JsPad&show_owner=true)](https://github.com/bettaibi/JsPad)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=selfie-toy&show_owner=true)](https://github.com/bettaibi/selfie-toy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=word-meaninig&show_owner=true)](https://github.com/bettaibi/word-meaninig)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=memory-game&show_owner=true)](https://github.com/bettaibi/memory-game)
 
 ---
 
