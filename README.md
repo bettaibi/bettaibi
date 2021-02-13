@@ -39,7 +39,7 @@
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=JsPad&show_owner=true)](https://github.com/bettaibi/JsPad)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bettaibi&repo=word-meaninig&show_owner=true)](https://github.com/bettaibi/word-meaninig)
 
 ---
